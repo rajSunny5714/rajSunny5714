@@ -1,121 +1,108 @@
-👋 Hi, I’m Sunny Raj
+👋 Hi, My name is Sunny Raj
 
-🚀 Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Sunny%20Raj&fontSize=45&fontColor=ffffff&fontAlignY=38"/>
+</p>
 
-🎓 MCA @ IIIT Ranchi (Programme in collaboration with IIT Patna)
-💼 Graduate Trainee @ TCS
-📍 India 🇮🇳
+<h3 align="center">🚀 Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)</h3>
 
-💡 Building secure, scalable systems where backend engineering meets identity security.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/CyberSecurity-0A192F?style=for-the-badge&logo=hackthebox"/>
+</p>
 
-🌟 About Me
+---
 
-I’m a Full-Stack Java Developer with a strong passion for Cybersecurity & Identity and Access Management (IAM).
-I enjoy designing secure backend architectures, building scalable REST APIs, and integrating modern authentication & authorization mechanisms.
+## 🙋‍♂️ About Me
+🎓 **MCA @ IIIT Ranchi** *(with IIT Patna)*  
+💼 **Graduate Trainee @ TCS**  
+📍 **India 🇮🇳**
 
-✨ What defines me:
+✨ I build **secure, scalable applications** where **backend engineering meets IAM security**.
 
-🔧 Hands-on with Java, Spring Boot, REST APIs, SQL, React
+- 🔧 Java | Spring Boot | REST APIs | SQL | React  
+- 🔐 Learning **IAM, OAuth 2.0, SAML 2.0, JWT**  
+- 🧠 Strong in **DSA, OS, DBMS, Networking**  
+- 🚀 Passionate about **real-world security problems**
 
-🔐 Actively learning IAM, OAuth 2.0, SAML 2.0, JWT
+---
 
-🧠 Strong fundamentals in DSA, OS, Networking, DBMS
+## 🛠️ Tech Stack
 
-🚀 Problem-solver who loves real-world, security-focused systems
+### 🔙 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square)
 
-🛠️ Tech Stack
-🔙 Backend
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
-🟦 Java | 🌱 Spring Boot | 🔐 Spring Security
-🔁 REST APIs | 🧩 JDBC | ⚙️ Microservices
+### 🔐 Security & Cloud
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
+![OAuth](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 
-🎨 Frontend
+---
 
-⚛️ React.js | 🧱 HTML5 | 🎨 CSS3
-🌈 Tailwind CSS | 🅱️ Bootstrap
+## 💼 Work Experience
+### 🏢 Tata Consultancy Services (TCS)
+**Graduate Trainee | 2025 – Present**
 
-🔐 Security & Cloud
+✔ Full-stack enterprise applications  
+✔ Secure REST API design  
+✔ React reusable components  
+✔ Agile / Scrum  
+✔ Docker, Selenium, JMeter
 
-🔑 JWT | 🔁 OAuth 2.0 | 🔒 SAML 2.0
-🛡️ IAM | ☁️ AWS | 🐳 Docker
+---
 
-🗄️ Databases & Tools
+## 🚀 Featured Projects
 
-🗃️ MySQL | PostgreSQL
-🔧 Git | GitHub | Maven | Postman
-💻 IntelliJ IDEA | VS Code
-🧪 Selenium | 🚀 JMeter
+### 🔗 URL Shortener Platform
+🔹 Spring Boot | Spring Security | React | AWS | Docker  
+🔹 JWT Authentication & RBAC  
+🔗 [View Project](https://github.com/rajSunny5714/Url-Shortener-FullStack-Project)
 
-💼 Work Experience
-🏢 Tata Consultancy Services (TCS)
+### 💸 Daily Expense Tracker
+🔹 Spring Boot | React | MySQL  
+🔗 [View Project](https://github.com/rajSunny5714/Daily-Expense-Tracker-FullStack-Project)
 
-Graduate Trainee | Jan 2025 – Present
-📍 Chennai → Noida
+### 🎓 ThinkHive – Edusity
+🔹 React | Tailwind CSS  
+🔗 [View Project](https://github.com/rajSunny5714/ThinkHive-Projects)
 
-🔹 Built enterprise-grade full-stack applications
-🔹 Designed secure & optimized RESTful backend services
-🔹 Developed reusable and responsive React components
-🔹 Worked across full SDLC using Agile/Scrum
-🔹 Hands-on with Docker, Git, Selenium, JMeter during ILP
+---
 
-🚀 Featured Projects
-🔗 URL Shortener Platform
+## 🧠 Coding Stats
+🔥 **LeetCode:** 200+ Problems | ⭐ Rating **1580**  
+🔥 **DSA Solved:** 500+ Problems  
 
-🛠️ Spring Boot | Spring Security | React | AWS | Docker
-✨ JWT-based authentication & role-based access control
-✨ Scalable APIs for URL redirection & analytics
-🔗 Repo:
-👉 https://github.com/rajSunny5714/Url-Shortener-FullStack-Project
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajSunny5714&show_icons=true&theme=tokyonight"/>
+</p>
 
-💸 Daily Expense Tracker
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajSunny5714&theme=tokyonight"/>
+</p>
 
-🛠️ Spring Boot | React | MySQL
-✨ Full CRUD-based expense management
-✨ Optimized SQL queries & clean REST APIs
-🔗 Repo:
-👉 https://github.com/rajSunny5714/Daily-Expense-Tracker-FullStack-Project
+---
 
-🎓 Edusity – ThinkHive
+## 📫 Connect With Me
+🌐 [Linktree](https://linktr.ee/mr.sr_sunny)  
+💼 [LinkedIn](https://www.linkedin.com/in/sunny-raj-299401273)  
+📧 **mrsj5714@gmail.com**
 
-🛠️ React.js | Tailwind CSS
-✨ Modern & responsive learning platform
-🔗 Repo:
-👉 https://github.com/rajSunny5714/ThinkHive-Projects
+---
 
-▶️ Modern PlayStream (YouTube Clone)
+<p align="center">
+  <b>⭐ Always learning. Always building. Always securing. 🔐</b>
+</p>
 
-🛠️ React.js | APIs | CSS
-✨ Dynamic video feeds & smart search
-🔗 Repo:
-👉 https://github.com/rajSunny5714/Modern-Playstream
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
 
-🧠 Coding Achievements
-
-🏆 LeetCode: 200+ Problems | ⭐ Rating 1580
-🏆 Coding Ninjas: 150+ Problems | 400+ MCQs
-🏆 Solved 500+ DSA problems across platforms
-
-📜 Certifications
-
-📜 Software Engineer – HackerRank (2025)
-📜 ISC2 CISSP (Foundational) – LinkedIn Learning (2025)
-📜 Full Stack Java Development – Udemy (2025)
-📜 Geo Data Security & Cyber Security – ISRO/IIRS (2025)
-📜 Generative AI – LinkedIn Learning (2025)
-
-📊 GitHub Stats
-
-🔥 Consistent contributor & project builder
-📈 (Add GitHub stats images here if you want)
-
-📫 Let’s Connect
-
-🌐 Linktree: https://linktr.ee/mr.sr_sunny
-
-💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273
-
-📧 Email: mrsj5714@gmail.com
-
-💻 GitHub: https://github.com/rajSunny5714
-
-⭐ Always learning. Always building. Always securing. 🔐🚀
