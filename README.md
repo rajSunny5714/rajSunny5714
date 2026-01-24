@@ -1,10 +1,12 @@
-👋 Hi, My name is Sunny Raj
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Sunny%20Raj&fontSize=45&fontColor=ffffff&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=👋%20Hi,%20My%20name%20is%20Sunny%20Raj&fontSize=45&fontColor=ffffff&fontAlignY=38"/>
 </p>
 
-<h3 align="center">🚀 Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)</h3>
+<h3 align="center">🚀 Proficient Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Secure+Backend+Engineer;IAM+%7C+OAuth2+%7C+SAML+%7C+JWT;Spring+Boot+%2B+React+Developer;Building+Scalable+%26+Secure+Systems"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -13,10 +15,10 @@
   <img src="https://img.shields.io/badge/CyberSecurity-0A192F?style=for-the-badge&logo=hackthebox"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 🙋‍♂️ About Me
-🎓 **MCA @ IIIT Ranchi** *(with IIT Patna)*  
+🎓 **MCA @ IIIT Ranchi** *(Programme conducted in collaboration with IIT Patna)*  
 💼 **Graduate Trainee @ TCS**  
 📍 **India 🇮🇳**
 
@@ -24,10 +26,20 @@
 
 - 🔧 Java | Spring Boot | REST APIs | SQL | React  
 - 🔐 Learning **IAM, OAuth 2.0, SAML 2.0, JWT**  
-- 🧠 Strong in **DSA, OS, DBMS, Networking**  
+- 🧠 Strong fundamentals in **DSA, OS, DBMS, Networking**  
 - 🚀 Passionate about **real-world security problems**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
+
+## 🔐 Cybersecurity Focus (IAM)
+🛡️ Identity & Access Management fundamentals  
+🔑 Authentication vs Authorization  
+🔐 OAuth 2.0 | SAML 2.0 | JWT flows  
+🏢 Enterprise IAM mindset (SSO, RBAC, Least Privilege)
+
+> 🎯 Goal: Become a **Security-aware Backend Engineer** with strong IAM expertise
+
+<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 🛠️ Tech Stack
 
@@ -38,15 +50,18 @@
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
 ### 🔐 Security & Cloud
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
-![OAuth](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
+![SAML](https://img.shields.io/badge/SAML-3C873A?style=flat-square)
+![IAM](https://img.shields.io/badge/IAM-black?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 💼 Work Experience
 ### 🏢 Tata Consultancy Services (TCS)
@@ -54,32 +69,32 @@
 
 ✔ Full-stack enterprise applications  
 ✔ Secure REST API design  
-✔ React reusable components  
+✔ Reusable React components  
 ✔ Agile / Scrum  
-✔ Docker, Selenium, JMeter
+✔ Docker, Selenium, JMeter  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 🚀 Featured Projects
 
 ### 🔗 URL Shortener Platform
-🔹 Spring Boot | Spring Security | React | AWS | Docker  
+🔹 Java | Spring Boot | Spring Security | React | AWS | Docker  
 🔹 JWT Authentication & RBAC  
-🔗 [View Project](https://github.com/rajSunny5714/Url-Shortener-FullStack-Project)
+🔗 https://github.com/rajSunny5714/Url-Shortener-FullStack-Project
 
 ### 💸 Daily Expense Tracker
-🔹 Spring Boot | React | MySQL  
-🔗 [View Project](https://github.com/rajSunny5714/Daily-Expense-Tracker-FullStack-Project)
+🔹 Java | Spring Boot | React | MySQL  
+🔗 https://github.com/rajSunny5714/Daily-Expense-Tracker-FullStack-Project
 
 ### 🎓 ThinkHive – Edusity
-🔹 React | Tailwind CSS  
-🔗 [View Project](https://github.com/rajSunny5714/ThinkHive-Projects)
+🔹 React | JS | Tailwind CSS  
+🔗 https://github.com/rajSunny5714/ThinkHive-Projects
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 🧠 Coding Stats
 🔥 **LeetCode:** 200+ Problems | ⭐ Rating **1580**  
-🔥 **DSA Solved:** 500+ Problems  
+🔥 **Coding Ninjas:** 150+ Problems | 400+ MCQs  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajSunny5714&show_icons=true&theme=tokyonight"/>
@@ -89,14 +104,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajSunny5714&theme=tokyonight"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajSunny5714&theme=tokyonight"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 📫 Connect With Me
-🌐 [Linktree](https://linktr.ee/mr.sr_sunny)  
-💼 [LinkedIn](https://www.linkedin.com/in/sunny-raj-299401273)  
-📧 **mrsj5714@gmail.com**
-
----
+🌐 Linktree: https://linktr.ee/mr.sr_sunny  
+💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273  
+📧 Email: **mrsj5714@gmail.com**  
+💻 GitHub: https://github.com/rajSunny5714  
 
 <p align="center">
   <b>⭐ Always learning. Always building. Always securing. 🔐</b>
@@ -105,4 +123,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 </p>
-
