@@ -31,14 +31,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
-## 🔐 Cybersecurity Focus (IAM)
-🛡️ Identity & Access Management fundamentals  
-🔑 Authentication vs Authorization  
-🔐 OAuth 2.0 | SAML 2.0 | JWT flows  
-🏢 Enterprise IAM mindset (SSO, RBAC, Least Privilege)
-
-> 🎯 Goal: Become a **Security-aware Backend Engineer** with strong IAM expertise
-
 <img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 🛠️ Tech Stack
