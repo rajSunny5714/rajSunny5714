@@ -79,19 +79,40 @@
 🔥 **Coding Ninjas:** 150+ Problems | 400+ MCQs  
 
 
-## 📫 Connect With Me 🌍
-
-🌐 **Linktree:** https://linktr.ee/mr.sr_sunny  
-💼 **LinkedIn:** https://www.linkedin.com/in/sunny-raj-299401273  
-💻 **LeetCode:** https://leetcode.com/u/mrsj5714  
-📧 **Email:** mrsj5714@gmail.com  
-
----
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <b style="color:#00c6ff">
-⭐ Always learning. Always building. Always securing. 🔐
-  </b>
+  <a href="https://linktr.ee/mr.sr_sunny" target="_blank" title="Linktree">
+    <img src="https://img.icons8.com/fluency/48/linktree.png"
+         style="margin: 10px; transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.3)'"
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sunny-raj-299401273" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png"
+         style="margin: 10px; transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.3)'"
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <a href="https://leetcode.com/u/mrsj5714" target="_blank" title="LeetCode">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"
+         style="margin: 10px; transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.3)'"
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <a href="mailto:mrsj5714@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
+         style="margin: 10px; transition: transform 0.3s;"
+         onmouseover="this.style.transform='scale(1.3)'"
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>✨ Hover on icons • Click to connect ✨</sub>
 </p>
 
 <p align="center">
