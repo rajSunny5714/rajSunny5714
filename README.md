@@ -75,10 +75,10 @@
 
 
 ## 📫 Connect With Me
-🌐 Linktree: https://linktr.ee/mr.sr_sunny  
-💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273 
-💻 Leetcode: https://leetcode.com/u/mrsj5714  
-📧 Email: **mrsj5714@gmail.com**  
+🌐 Linktree: https://linktr.ee/mr.sr_sunny
+💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273
+💻 Leetcode: https://leetcode.com/u/mrsj5714   
+📧 Email: **mrsj5714@gmail.com**
 
 <p align="center">
   <b>⭐ Always learning. Always building. Always securing. 🔐</b>
