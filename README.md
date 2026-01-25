@@ -36,9 +36,14 @@
 ## 🛠️ Tech Stack
 
 ### 🔙 Backend
+### 🔙 Backend 🚀
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-00C853?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-2F80ED?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
@@ -74,16 +79,21 @@
 🔥 **Coding Ninjas:** 150+ Problems | 400+ MCQs  
 
 
-## 📫 Connect With Me
-🌐 Linktree: https://linktr.ee/mr.sr_sunny
-💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273
-💻 Leetcode: https://leetcode.com/u/mrsj5714   
-📧 Email: **mrsj5714@gmail.com**
+## 📫 Connect With Me 🌍
+
+🌐 **Linktree:** https://linktr.ee/mr.sr_sunny  
+💼 **LinkedIn:** https://www.linkedin.com/in/sunny-raj-299401273  
+💻 **LeetCode:** https://leetcode.com/u/mrsj5714  
+📧 **Email:** mrsj5714@gmail.com  
+
+---
 
 <p align="center">
-  <b>⭐ Always learning. Always building. Always securing. 🔐</b>
+  <b style="color:#00c6ff">
+⭐ Always learning. Always building. Always securing. 🔐
+  </b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7873f5,100:ff6ec4&height=120&section=footer"/>
 </p>
