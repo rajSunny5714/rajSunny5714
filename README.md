@@ -68,44 +68,15 @@
 ✔ Agile / Scrum  
 ✔ Docker, Selenium, JMeter  
 
-<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
-
 ## 🧠 Coding Stats
 🔥 **LeetCode:** 200+ Problems | ⭐ Rating **1580**  
 🔥 **Coding Ninjas:** 150+ Problems | 400+ MCQs  
 
-
 <h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
-  <a href="https://linktr.ee/mr.sr_sunny" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linktree.png" alt="Linktree"/>
-    <br/>
-    <span><b>Linktree</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/sunny-raj-299401273" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-    <br/>
-    <span><b>LinkedIn</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/mrsj5714" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
-    <br/>
-    <span><b>LeetCode</b></span>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:mrsj5714@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
-    <br/>
-    <span><b>Email</b></span>
-  </a>
-</p>
-
+- 🌐 **Linktree:** https://linktr.ee/mr.sr_sunny  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sunny-raj-299401273  
+- 💻 **LeetCode:** https://leetcode.com/u/mrsj5714  
+- 📧 **Email:** mrsj5714@gmail.com
+- 
 <p align="center"> <b>⭐ Always learning. Always building. Always securing. 🔐</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/> </p>
