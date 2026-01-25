@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/CyberSecurity-0A192F?style=for-the-badge&logo=hackthebox"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 🙋‍♂️ About Me
 🎓 **MCA @ IIIT Ranchi** *(Programme conducted in collaboration with IIT Patna)*  
@@ -28,9 +27,6 @@
 - 🧠 Strong fundamentals in **DSA, OS, DBMS, Networking**  
 - 🚀 Passionate about **real-world security problems**
 
-<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 🛠️ Tech Stack
 
