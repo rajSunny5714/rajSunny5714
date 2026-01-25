@@ -56,8 +56,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 
-<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
-
 ## 💼 Work Experience
 
 ### 🏢 Tata Consultancy Services (TCS)
