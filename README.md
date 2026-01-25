@@ -83,38 +83,31 @@
 
 <p align="center">
   <a href="https://linktr.ee/mr.sr_sunny" target="_blank" title="Linktree">
-    <img src="https://img.icons8.com/fluency/48/linktree.png"
-         style="margin: 10px; transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.3)'"
-         onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/fluency/48/linktree.png" />
+    <br/>
+    <b>Linktree</b>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/sunny-raj-299401273" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png"
-         style="margin: 10px; transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.3)'"
-         onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" />
+    <br/>
+    <b>LinkedIn</b>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/mrsj5714" target="_blank" title="LeetCode">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"
-         style="margin: 10px; transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.3)'"
-         onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
+    <br/>
+    <b>LeetCode</b>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:mrsj5714@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png"
-         style="margin: 10px; transition: transform 0.3s;"
-         onmouseover="this.style.transform='scale(1.3)'"
-         onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" />
+    <br/>
+    <b>Email</b>
   </a>
 </p>
 
-<p align="center">
-  <sub>✨ Hover on icons • Click to connect ✨</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7873f5,100:ff6ec4&height=120&section=footer"/>
-</p>
+<p align="center"> <b>⭐ Always learning. Always building. Always securing. 🔐</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/> </p>
