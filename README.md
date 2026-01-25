@@ -74,5 +74,5 @@
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sunny-raj-299401273  
 - 💻 **LeetCode:** https://leetcode.com/u/mrsj5714  
 - 📧 **Email:** mrsj5714@gmail.com
-- 
+  
 <p align="center"> <b>⭐ Always learning. Always building. Always securing. 🔐</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/> </p>
