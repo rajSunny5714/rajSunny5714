@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=👋%20Hi,%20My%20name%20is%20Sunny%20Raj&fontSize=45&fontColor=ffffff&fontAlignY=38"/>
 </p>
-
 <h3 align="center">🚀 Proficient Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)</h3>
 
 <p align="center">
@@ -35,8 +34,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🔙 Backend
-### 🔙 Backend 🚀
+## 🔙 Backend 🚀
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-00C853?style=flat-square)
@@ -45,12 +43,12 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square)
 
-### 🎨 Frontend
+## 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
-### 🔐 Security & Cloud
+## 🔐 Security & Cloud
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
 ![SAML](https://img.shields.io/badge/SAML-3C873A?style=flat-square)
@@ -61,7 +59,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 💼 Work Experience
-### 🏢 Tata Consultancy Services (TCS)
+## 🏢 Tata Consultancy Services (TCS)
 **Graduate Trainee | 2025 – Present**
 
 ✔ Full-stack enterprise applications  
@@ -82,31 +80,31 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linktr.ee/mr.sr_sunny" target="_blank" title="Linktree">
-    <img src="https://img.icons8.com/fluency/48/linktree.png" />
+  <a href="https://linktr.ee/mr.sr_sunny" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linktree.png" alt="Linktree"/>
     <br/>
-    <b>Linktree</b>
+    <span><b>Linktree</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/sunny-raj-299401273" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" />
+  <a href="https://www.linkedin.com/in/sunny-raj-299401273" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
     <br/>
-    <b>LinkedIn</b>
+    <span><b>LinkedIn</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/u/mrsj5714" target="_blank" title="LeetCode">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
+  <a href="https://leetcode.com/u/mrsj5714" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
     <br/>
-    <b>LeetCode</b>
+    <span><b>LeetCode</b></span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:mrsj5714@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" />
+  <a href="mailto:mrsj5714@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
     <br/>
-    <b>Email</b>
+    <span><b>Email</b></span>
   </a>
 </p>
 
