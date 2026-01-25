@@ -60,7 +60,7 @@
 **Graduate Trainee | 2025 – Present**
 
 ✔ Full-stack enterprise applications  
-✔ Secure REST API design  
+✔ Secure REST API design 
 ✔ Reusable React components  
 ✔ Agile / Scrum  
 ✔ Docker, Selenium, JMeter  
@@ -73,19 +73,6 @@
 🔥 **LeetCode:** 200+ Problems | ⭐ Rating **1580**  
 🔥 **Coding Ninjas:** 150+ Problems | 400+ MCQs  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajSunny5714&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajSunny5714&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajSunny5714&theme=tokyonight"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 📫 Connect With Me
 🌐 Linktree: https://linktr.ee/mr.sr_sunny  
