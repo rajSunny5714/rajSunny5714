@@ -59,20 +59,22 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 💼 Work Experience
-## 🏢 Tata Consultancy Services (TCS)
+
+### 🏢 Tata Consultancy Services (TCS)
 **Graduate Trainee | 2025 – Present**
 
 ✔ Full-stack enterprise applications  
-✔ Secure REST API design 
+✔ Secure REST API design  
 ✔ Reusable React components  
 ✔ Agile / Scrum  
 ✔ Docker, Selenium, JMeter  
 
 ## 🧠 Coding Stats
 🔥 **LeetCode:** 200+ Problems | ⭐ Rating **1580**  
-🔥 **Coding Ninjas:** 150+ Problems | 400+ MCQs  
+🔥 **Coding Ninjas:** 150+ DSA Problems | 400+ DSA MCQs  
+🔥 **Coding Practice:** Solved overall 500+ Problems in multiple languages   
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 - 🌐 **Linktree:** https://linktr.ee/mr.sr_sunny  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sunny-raj-299401273  
