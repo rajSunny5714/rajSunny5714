@@ -67,21 +67,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
-## 🚀 Featured Projects
-
-### 🔗 URL Shortener Platform
-🔹 Java | Spring Boot | Spring Security | React | AWS | Docker  
-🔹 JWT Authentication & RBAC  
-🔗 https://github.com/rajSunny5714/Url-Shortener-FullStack-Project
-
-### 💸 Daily Expense Tracker
-🔹 Java | Spring Boot | React | MySQL  
-🔗 https://github.com/rajSunny5714/Daily-Expense-Tracker-FullStack-Project
-
-### 🎓 ThinkHive – Edusity
-🔹 React | JS | Tailwind CSS  
-🔗 https://github.com/rajSunny5714/ThinkHive-Projects
-
 <img src="https://user-images.githubusercontent.com/74038190/212750112-ef3a07b8-42db-4d0a-bd5d-3c8d6a5d7c9f.gif">
 
 ## 🧠 Coding Stats
@@ -104,9 +89,9 @@
 
 ## 📫 Connect With Me
 🌐 Linktree: https://linktr.ee/mr.sr_sunny  
-💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273  
+💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273 
+💻 Leetcode: https://leetcode.com/u/mrsj5714  
 📧 Email: **mrsj5714@gmail.com**  
-💻 GitHub: https://github.com/rajSunny5714  
 
 <p align="center">
   <b>⭐ Always learning. Always building. Always securing. 🔐</b>
