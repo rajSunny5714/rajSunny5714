@@ -71,7 +71,7 @@
 ## 🌐 Connect With Me
 
 - 🌐 **Linktree:** https://linktr.ee/mr.sr_sunny  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/sunny-raj-299401273  ](https://www.linkedin.com/in/sunny-raj-jha-299401273/)
+- 💼 **LinkedIn:** [[https://www.linkedin.com/in/sunny-raj-299401273  ](https://www.linkedin.com/in/sunny-raj-299401273/)
 - 💻 **LeetCode:** https://leetcode.com/u/mrsj5714  
 - 📧 **Email:** mrsj5714@gmail.com
   
