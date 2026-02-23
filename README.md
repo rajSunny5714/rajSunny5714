@@ -4,10 +4,6 @@
 <h3 align="center">🚀 Proficient Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Secure+Backend+Engineer;IAM+%7C+OAuth2+%7C+SAML+%7C+JWT;Spring+Boot+%2B+React+Developer;Building+Scalable+%26+Secure+Systems"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -30,7 +26,7 @@
 
 ## 🛠️ Tech Stack
 
-## 🔙 Backend 🚀
+## 🔙 Technologies 🚀
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-00C853?style=flat-square)
@@ -38,13 +34,9 @@
 ![JDBC](https://img.shields.io/badge/JDBC-2F80ED?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square)
-
-## 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-
-## 🔐 Security & Cloud
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
 ![SAML](https://img.shields.io/badge/SAML-3C873A?style=flat-square)
