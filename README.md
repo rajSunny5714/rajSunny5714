@@ -4,9 +4,10 @@
 <h3 align="center">🚀 Proficient Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)</h3>
 
 ## 🙋‍♂️ About Me
+💼 **Graduate Trainee Associate @ TCS** 
 🎓 **MCA @ IIITR & IITP** 2025-2027 *(Programme conducted in collaboration with IIT Patna)*  
-🎓 **BCA @ Bihar University** 2021-2024
-💼 **Graduate Trainee @ TCS**  
+🎓 **BCA @ Bihar University** 2021-2024 *()*
+ 
 📍 **India 🇮🇳**
 
 ✨ I build **secure, scalable applications** where **backend engineering meets IAM security**.
