@@ -3,16 +3,8 @@
 </p>
 <h3 align="center">🚀 Proficient Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/CyberSecurity-0A192F?style=for-the-badge&logo=hackthebox"/>
-</p>
-
-
 ## 🙋‍♂️ About Me
-🎓 **MCA @ IIIT Ranchi** *(Programme conducted in collaboration with IIT Patna)*  
+🎓 **MCA @ IIITR & IITP** *(Programme conducted in collaboration with IIT Patna)*  
 💼 **Graduate Trainee @ TCS**  
 📍 **India 🇮🇳**
 
