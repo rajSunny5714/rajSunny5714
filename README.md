@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 💼 **Graduate Trainee Associate @ TCS** 
 🎓 **MCA @ IIITR & IITP** 2025-2027 *(Programme conducted in collaboration with IIT Patna)*  
-🎓 **BCA @ Bihar University** 2021-2024 *()*
+🎓 **BCA @ Bihar University** 2021-2024
  
 📍 **India 🇮🇳**
 
