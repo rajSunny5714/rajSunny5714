@@ -13,6 +13,7 @@ Indian Institute of Information Technology, Ranchi
 
 🎓 **BCA (2021–2024)**  
 Babasaheb Bhimrao Ambedkar Bihar University 
+
 📍 **India 🇮🇳**
 
 ✨ I build **secure, scalable applications** where **backend engineering meets IAM security**.
