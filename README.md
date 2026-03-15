@@ -50,6 +50,7 @@ Babasaheb Bhimrao Ambedkar Bihar University
 
 ### 🏢 Tata Consultancy Services (TCS)
 **Programmer | Jan-2026 – Present**
+
 **Graduate Trainee | Jan-2025 – Jan-2026**
 
 ✔ Full-stack enterprise applications  
