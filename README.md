@@ -47,7 +47,8 @@ Babasaheb Bhimrao Ambedkar Bihar University
 ## 💼 Work Experience
 
 ### 🏢 Tata Consultancy Services (TCS)
-**Graduate Trainee | 2025 – Present**
+**Programmer | Jan-2026 – Present**
+**Graduate Trainee | Jan-2025 – Jan-2026**
 
 ✔ Full-stack enterprise applications  
 ✔ Secure REST API design  
