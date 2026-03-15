@@ -29,6 +29,7 @@ Babasaheb Bhimrao Ambedkar Bihar University
 ## 🔙 Technologies 🚀
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
+![Spring AI](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-00C853?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square)
 ![JDBC](https://img.shields.io/badge/JDBC-2F80ED?style=flat-square)
