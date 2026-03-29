@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-💼 **Graduate Trainee Associate** @ Tata Consultancy Services  
+💼 **Programmer** @ Tata Consultancy Services  
 
 🎓 **MCA (2025–2027)**  
 Indian Institute of Information Technology, Ranchi  
