@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=👋%20Hi,%20My%20name%20is%20Sunny%20Raj&fontSize=45&fontColor=ffffff&fontAlignY=38"/>
 </p>
-<h3 align="center">🚀 Proficient Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)</h3>
+<h3 align="center">🚀 Full-Stack Java Developer | 🔐 Aspiring Cybersecurity Analyst (IAM)</h3>
 
 ## 🙋‍♂️ About Me
+
+Proficient Java Fullstack Developer with hands-on experience in building scalable web applications using Spring Boot, React.js, and REST APIs. Strong foundation in backend development, security (JWT, OAuth 2.0), and database management (MySQL, JDBC). Experienced in developing AI-powered applications using LLM, RAG, and LangChain. Passionate about building secure and efficient systems, with a growing interest in cybersecurity and Identity and Access Management
 
 💼 **Programmer** @ Tata Consultancy Services  
 
