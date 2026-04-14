@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=%20Hi,%20My%20name%20is%20Sunny%20Raj&fontSize=45&fontColor=ffffff&fontAlignY=38"/>
-</p>
+<p align="center">Hi, My name is Sunny Raj"/>
 <h3 align="center">🚀 Full-Stack Java Developer | 🔐 Aspiring IAM Engineer</h3>
 <h3 align="center">🔧 Developing | 🚀 Building | 🔐 Securing</h3>
 
