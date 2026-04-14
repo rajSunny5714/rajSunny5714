@@ -1,4 +1,3 @@
-<p align="center">Hi, My name is Sunny Raj"/>
 <h3 align="center">🚀 Full-Stack Java Developer | 🔐 Aspiring IAM Engineer</h3>
 <h3 align="center">🔧 Developing | 🚀 Building | 🔐 Securing</h3>
 
