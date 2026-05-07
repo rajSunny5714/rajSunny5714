@@ -65,7 +65,7 @@ Babasaheb Bhimrao Ambedkar Bihar University
 
 ## 🌐 Connect With Me
 
-- 🌐 **Portfolio:** [https://portfolio-web-omega-seven.vercel.app]
+- 🌐 **Portfolio:** https://portfolio-web-omega-seven.vercel.app
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/sunny-raj-299401273](https://www.linkedin.com/in/sunny-raj-299401273/)
 - 💻 **LeetCode:** https://leetcode.com/u/mrsj5714  
 - 📧 **Email:** mrsj5714@gmail.com
