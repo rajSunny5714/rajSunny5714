@@ -1,73 +1,100 @@
-<h3 align="center">🚀 Full-Stack Java Developer | 🔐 Aspiring IAM Engineer</h3>
-<h3 align="center">🔧 Developing | 🚀 Building | 🔐 Securing</h3>
+# 🚀 Sunny Raj
 
+<h3 align="center">Full-Stack Java Developer | Aspiring IAM Engineer</h3>
+<h4 align="center">Building Secure, Scalable & Intelligent Applications 🔐</h4>
+
+---
 
 ## 🙋‍♂️ About Me
 
-Proficient Java Fullstack Developer with hands-on experience in building scalable web applications using Spring Boot, React.js, and REST APIs. Strong foundation in backend development, security (JWT, OAuth 2.0), and database management (MySQL, JDBC). Experienced in developing AI-powered applications using LLM, RAG, and LangChain. Passionate about building secure and efficient systems, with a growing interest in cybersecurity and Identity and Access Management
+Java Fullstack Engineer with 1.4+ years of hands-on experience in building scalable web applications using Java, Spring Boot, React.js, and REST APIs.
 
-💼 **Programmer** @ Tata Consultancy Services | Jan 2025 - Present
+Strong foundation in backend development, authentication & authorization (JWT, OAuth 2.0, SAML 2.0), and database management using MySQL and JDBC.
 
-🎓 **MCA (2025–2027)**  
-Indian Institute of Information Technology, Ranchi  
-*(Regular Hybrid Programme conducted in collaboration with Indian Institute of Technology Patna)*  
+Experienced in developing AI-powered applications using LLMs, RAG, LangChain, and OpenAI APIs. Passionate about building secure, scalable, and efficient systems with growing expertise in cybersecurity and Identity & Access Management (IAM).
 
-🎓 **BCA (2021–2024)**  
-Babasaheb Bhimrao Ambedkar Bihar University 
-
-✨ I build **secure, scalable applications** where **backend engineering meets IAM security**.
-
-- 🔧 Java | Spring Boot | REST APIs | SQL | React  
-- 🔐 Learning **IAM, OAuth 2.0, SAML 2.0, JWT**  
-- 🧠 Strong fundamentals in **DSA, OS, DBMS, Networking**  
-- 🚀 Passionate about **real-world security problems**
-
-
-## 🛠️ Tech Stack
-
-## 🔙 Technologies 🚀
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-00C853?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square)
-![JDBC](https://img.shields.io/badge/JDBC-2F80ED?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
-![SAML](https://img.shields.io/badge/SAML-3C873A?style=flat-square)
-![IAM](https://img.shields.io/badge/IAM-black?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+---
 
 ## 💼 Work Experience
 
 ### 🏢 Tata Consultancy Services (TCS)
-**Programmer | Jan-2026 – Present**
+**Programmer – Fullstack Engineer**  
+📍 Delhi, India | 🗓️ Jan 2025 – Present
 
-**Graduate Trainee | Jan-2025 – Jan-2026**
+- Resolved 20+ real-time production incidents per month for enterprise applications
+- Investigated and troubleshot REST API issues using Postman
+- Supported live production systems and ensured SLA-based issue resolution
+- Performed SQL/MySQL validations for production troubleshooting
+- Collaborated with cross-functional teams in Agile/Scrum environments
+- Maintained incident reports and technical documentation
 
-✔ Full-stack enterprise applications  
-✔ Secure REST API design  
-✔ Reusable React components  
-✔ Agile / Scrum  
-✔ Docker, Selenium, JMeter  
+---
 
-## 🧠 Coding Stats
-🔥 **LeetCode:** 200+ Problems | ⭐ Rating **1580**  
-🔥 **Coding Ninjas:** 150+ DSA Problems | 400+ DSA MCQs  
-🔥 **Coding Practice:** Solved overall 500+ Problems in multiple languages   
+## 🎓 Education
 
-## 🌐 Connect With Me
+### 🎓 Master of Computer Applications (MCA) | 2025 – 2027
+**Indian Institute of Information Technology (IIIT) Ranchi**  
+*(Regular Hybrid Programme conducted in collaboration with IIT Patna)*
 
-- 🌐 **Portfolio:** https://new-portfolio-pi-liard.vercel.app
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/sunny-raj-299401273](https://www.linkedin.com/in/sunny-raj-299401273/)
-- 💻 **LeetCode:** https://leetcode.com/u/mrsj5714  
-- 📧 **Email:** mrsj5714@gmail.com
-  
-<p align="center"> <b>⭐ Always learning. Always building. Always securing. 🔐</b>
+### 🎓 Bachelor of Computer Applications (BCA) | 2021 – 2024
+**B. R. Ambedkar Bihar University**  
+📊 Score: 75.8%
+
+---
+
+# 🛠️ Tech Stack
+
+## 🔙 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-00C853?style=flat-square)
+![Spring AI](https://img.shields.io/badge/SpringAI-6DB33F?style=flat-square&logo=spring)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-2F80ED?style=flat-square)
+
+## 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+
+## 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+
+## 🔐 Security & IAM
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
+![SAML](https://img.shields.io/badge/SAML-3C873A?style=flat-square)
+![IAM](https://img.shields.io/badge/IAM-black?style=flat-square)
+
+## 🤖 AI / ML
+![LLM](https://img.shields.io/badge/LLM-black?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+
+---
+
+# 🧠 Coding Profiles
+
+🔥 **LeetCode:** 280+ Problems Solved  
+🔥 **DSA Practice:** 500+ Problems across multiple platforms  
+🔥 **Core CS:** DSA, OOPs, DBMS, OS, Networking
+
+---
+
+# 🌐 Connect With Me
+
+- 🌐 Portfolio: https://new-portfolio-pi-liard.vercel.app
+- 💻 GitHub: https://github.com/rajSunny5714
+- 🧠 LeetCode: https://leetcode.com/u/mrsj5714
+- 💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273
+- 📧 Email: mrsj5714@gmail.com
+
+---
+
+<h3 align="center">⭐ Always Learning | 🚀 Always Building | 🔐 Always Securing</h3>
