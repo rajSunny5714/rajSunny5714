@@ -92,7 +92,7 @@ Experienced in developing AI-powered applications using LLMs, RAG, LangChain, an
 - 🌐 Portfolio: https://new-portfolio-ivory-pi.vercel.app
 - 🧠 LeetCode: https://leetcode.com/u/mrsj5714
 - 💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273
-- 📧 Email: mrsj5714@gmail.com
+- 📧 Email: sunnyraj13094@gmail.com
 
 ---
 
