@@ -33,8 +33,8 @@ Experienced in developing AI-powered applications using LLMs, RAG, LangChain, an
 ## 🎓 Education
 
 ### 🎓 Master of Computer Applications (MCA) | 2025 – 2027
-**Indian Institute of Information Technology (IIIT) Ranchi**  
-*(Regular Hybrid Programme conducted in collaboration with IIT Patna)*
+**Indian Institute of Technology Patna**  
+*(Regular Hybrid Programme conducted in collaboration with IITP & IIITR)*
 
 ### 🎓 Bachelor of Computer Applications (BCA) | 2021 – 2024
 **B. R. Ambedkar Bihar University**  
