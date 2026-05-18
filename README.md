@@ -51,22 +51,18 @@ Experienced in developing AI-powered applications using LLMs, RAG, LangChain, an
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square)
 ![JDBC](https://img.shields.io/badge/JDBC-2F80ED?style=flat-square)
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat-square)
 ![SAML](https://img.shields.io/badge/SAML-3C873A?style=flat-square)
 ![IAM](https://img.shields.io/badge/IAM-black?style=flat-square)
-
 ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
