@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-Java Fullstack Engineer with 1.4+ years of hands-on experience in building scalable web applications using Java, Spring Boot, React.js, and REST APIs.
+Java Fullstack Engineer with 1.5+ years of hands-on experience in building scalable web applications using Java, Spring Boot, React.js, and REST APIs.
 
 Strong foundation in backend development, authentication & authorization (JWT, OAuth 2.0, SAML 2.0), and database management using MySQL and JDBC.
 
