@@ -30,18 +30,6 @@ Experienced in developing AI-powered applications using LLMs, RAG, LangChain, an
 
 ---
 
-## 🎓 Education
-
-### 🎓 Master of Computer Applications (MCA) | 2025 – 2027
-**Indian Institute of Technology Patna**  
-*(Regular Hybrid Programme conducted in collaboration with IITP & IIITR)*
-
-### 🎓 Bachelor of Computer Applications (BCA) | 2021 – 2024
-**B. R. Ambedkar Bihar University**  
-📊 Score: 75.8%
-
----
-
 # 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)
@@ -67,6 +55,18 @@ Experienced in developing AI-powered applications using LLMs, RAG, LangChain, an
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+
+---
+
+## 🎓 Education
+
+### 🎓 Master of Computer Applications (MCA) | 2025 – 2027
+**Indian Institute of Technology Patna**  
+*(Regular Hybrid Programme conducted in collaboration with IITP & IIITR)*
+
+### 🎓 Bachelor of Computer Applications (BCA) | 2021 – 2024
+**B. R. Ambedkar Bihar University**  
+📊 Score: 75.8%
 
 ---
 
