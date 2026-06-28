@@ -72,7 +72,7 @@ Experienced in developing AI-powered applications using LLMs, RAG, LangChain, an
 
 # 🧠 Coding Profiles
 
-🔥 **LeetCode:** 280+ Problems Solved  
+🔥 **LeetCode:** 300+ DSA Problems Solved  
 🔥 **DSA Practice:** 500+ Problems across multiple platforms  
 🔥 **Core CS:** DSA, OOPs, DBMS, OS, Networking
 
