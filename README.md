@@ -19,7 +19,7 @@ Experienced in developing AI-powered applications using LLMs, RAG, LangChain, an
 
 ### 🏢 Tata Consultancy Services (TCS)
 **Programmer – Fullstack Engineer**  
-📍 Delhi, India | 🗓️ Jan 2025 – Present
+📍 New Delhi, India | 🗓️ Jan 2025 – Present
 
 - Resolved 20+ real-time production incidents per month for enterprise applications
 - Investigated and troubleshot REST API issues using Postman
@@ -62,7 +62,7 @@ Experienced in developing AI-powered applications using LLMs, RAG, LangChain, an
 
 ### 🎓 Master of Computer Applications (MCA) | 2025 – 2027
 **Indian Institute of Technology Patna**  
-*(Regular Hybrid Programme conducted in collaboration with IITP & IIITR)*
+*(Hybrid Full Time Programme conducted in collaboration with IITP & IIITR)*
 
 ### 🎓 Bachelor of Computer Applications (BCA) | 2021 – 2024
 **B. R. Ambedkar Bihar University**  
