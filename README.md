@@ -16,7 +16,7 @@ Currently exploring Microservices, AI applications with LLMs, RAG, LangChain, an
 ## 💼 Work Experience
 
 ### 🏢 Tata Consultancy Services (TCS)
-**Programmer – Fullstack Engineer**  
+**Programmer**  
 📍 New Delhi, India | 🗓️ Jan 2025 – Present
 
 - Resolved 20+ real-time production incidents per month for enterprise applications
