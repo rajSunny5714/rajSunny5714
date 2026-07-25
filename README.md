@@ -53,6 +53,14 @@ Currently exploring Microservices, AI applications with LLMs, RAG, LangChain, an
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka)
+![Microservices](https://img.shields.io/badge/Microservices-00599C?style=flat-square)
+![SSO](https://img.shields.io/badge/SSO-4285F4?style=flat-square)
+![MFA](https://img.shields.io/badge/MFA-34A853?style=flat-square)
+![OIDC](https://img.shields.io/badge/OpenID%20Connect-FF6F00?style=flat-square)
 
 ---
 
