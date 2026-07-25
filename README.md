@@ -61,6 +61,9 @@ Currently exploring Microservices, AI applications with LLMs, RAG, LangChain, an
 ![SSO](https://img.shields.io/badge/SSO-4285F4?style=flat-square)
 ![MFA](https://img.shields.io/badge/MFA-34A853?style=flat-square)
 ![OIDC](https://img.shields.io/badge/OpenID%20Connect-FF6F00?style=flat-square)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 ---
 
