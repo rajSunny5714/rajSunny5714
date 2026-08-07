@@ -77,7 +77,7 @@ Currently exploring Microservices, AI applications with LLMs, RAG, LangChain, an
 
 # 🧠 Coding Profiles
 
-🔥 **LeetCode:** 300+ DSA Problems Solved  
+🔥 **LeetCode:** 350+ DSA Problems Solved  
 🔥 **DSA Practice:** 500+ Problems across multiple platforms  
 🔥 **Core CS:** DSA, OOPs, DBMS, OS, Networking
 
@@ -86,8 +86,8 @@ Currently exploring Microservices, AI applications with LLMs, RAG, LangChain, an
 # 🌐 Connect With Me
 
 - 🌐 Portfolio: https://new-portfolio-ivory-pi.vercel.app
-- 🧠 LeetCode: https://leetcode.com/u/rajSunny5714
 - 💼 LinkedIn: https://www.linkedin.com/in/sunny-raj-299401273
+- 🧠 LeetCode: https://leetcode.com/u/rajSunny5714
 - 📧 Email: sunnyraj13094@gmail.com
 
 ---
