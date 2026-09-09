@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-Java Full-Stack Developer with 1.5+ years of experience building enterprise web applications using Java, Spring Boot, React.js, REST APIs, and SQL. Experienced in production support, API development, backend optimization, and secure authentication using JWT, OAuth 2.0, and SAML 2.0.
+I am currently working as a Programmer, building secure and scalable backend applications using Java, Spring Boot, REST APIs, SQL, JDBC, Microservices, and React.js. I enjoy solving complex backend challenges, designing efficient APIs, and developing reliable software that delivers business value.
 
-Currently exploring Microservices, AI applications with LLMs, RAG, LangChain, and Identity & Access Management (IAM) to build secure, scalable software solutions.
+Alongside my professional experience, I am actively preparing for a career in Identity & Access Management (IAM) and Cybersecurity. I am strengthening my expertise in OAuth 2.0, SAML 2.0, authentication, authorization, secure application development, and cloud security, with the goal of building enterprise-grade identity and access solutions.
 
 ---
 
