@@ -19,9 +19,9 @@ Alongside my professional experience, I am actively preparing for a career in Id
 **Programmer**  
 📍 New Delhi, India | 🗓️ Jan 2025 – Present
 
-- Resolved 20+ real-time production incidents per month for enterprise applications. Investigated and troubleshot REST API issues using Postman
-- Supported live production systems and ensured SLA-based issue resolution. Performed SQL/MySQL validations for production troubleshooting
-- Collaborated with cross-functional teams in Agile/Scrum environments. Maintained incident reports and technical documentation
+Designed and developed 15+ scalable REST APIs for product management, inventory, order processing, and secure payment workflows using Java, Spring Boot, and SQL.
+Optimized backend performance through SQL query tuning, database indexing, N+1 query resolution, and Redis caching, reducing API response time by 25% and database load by 30%.
+Collaborated with Agile teams on feature development, code reviews, production support, sprint planning, and deployments, ensuring reliable and maintainable backend services.
 ---
 
 # 🛠️ Tech Stack
