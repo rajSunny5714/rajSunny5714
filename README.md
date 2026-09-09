@@ -17,11 +17,10 @@ Alongside my professional experience, I am actively preparing for a career in Id
 
 ### 🏢 Tata Consultancy Services (TCS)
 **Programmer**  
-📍 New Delhi, India | 🗓️ Jan 2025 – Present
+📍 Noida, Uttar Pradesh, India | 🗓️ Jan 2025 – Present
 
-Designed and developed 15+ scalable REST APIs for product management, inventory, order processing, and secure payment workflows using Java, Spring Boot, and SQL.
-Optimized backend performance through SQL query tuning, database indexing, N+1 query resolution, and Redis caching, reducing API response time by 25% and database load by 30%.
-Collaborated with Agile teams on feature development, code reviews, production support, sprint planning, and deployments, ensuring reliable and maintainable backend services.
+Developed 15+ scalable REST APIs using Java, Spring Boot, and SQL for product, inventory, order, and payment workflows. Improved performance by 25% through query optimization, indexing, N+1 resolution, and Redis caching, reducing database load by 30%.
+
 ---
 
 # 🛠️ Tech Stack
