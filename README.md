@@ -1,6 +1,6 @@
 # 🚀 Sunny Raj
 
-<h3 align="center">Full-Stack Java Developer | Aspiring IAM Engineer</h3>
+<h3 align="center">Full-Stack Java Developer </h3>
 <h4 align="center">Building Secure, Scalable & Intelligent Applications 🔐</h4>
 
 ---
